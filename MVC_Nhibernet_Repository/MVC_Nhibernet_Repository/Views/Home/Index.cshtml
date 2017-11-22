@@ -1,0 +1,66 @@
+﻿@model MVC_Nhibernet_Repository.Models.DataModel
+
+<html>
+<head>
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-messages.js"></script>
+    <script src="~/Scripts/DB/CrudOperation.js"></script>
+    <script src="~/Scripts/jquery-3.2.1.min.js"></script>
+    <script src="~/Scripts/jquery-3.2.1.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <style>
+        .btn-primary {
+            margin-right: 10px;
+        }
+
+        .container {
+            margin: 20px 0;
+        }
+
+        body {
+            padding: 40px;
+            background: #4f4f4f;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <br />
+        <table class="table">
+            <thead>
+                <tr class="filters">
+                    <th>First Name<input type="text" class="form-control" placeholder="#"></th>
+                    <th>Last Name<input type="text" class="form-control" placeholder="First Name"></th>
+                    <th>Title<input type="text" class="form-control" placeholder="Last Name"></th>
+                    <th>Invention<input type="text" class="form-control" placeholder="Username"></th>
+                    <th>Record Number<input type="text" class="form-control" placeholder="Username"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Scientists)
+                {
+                    <tr class="alert-info">
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName</td>
+                        <td>@item.Title</td>
+                        <td class="danger">
+                            <select class="form-control">
+                                @foreach (var invention in Model.Invention)
+                                {
+                                    if (item.ID == invention.ScientistID.ID)
+                                    {
+                                        <option value="@invention.InventionID">@invention.Description</option>
+                                    }
+                                }
+                            </select>
+                        </td>
+                        <td>@item.ID</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

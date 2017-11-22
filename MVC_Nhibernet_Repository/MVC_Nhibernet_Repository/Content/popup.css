@@ -1,0 +1,16 @@
+﻿.ui-dialog {
+    font-size: 12px;
+    border-color: gray;
+}
+
+.ui-dialog-titlebar {
+    background: gray;
+    padding: 5px !important;
+    color: #fff;
+}
+
+.ui-dialog .ui-button {
+    background: green;
+    color: #fff;
+    border-color: #000;
+}

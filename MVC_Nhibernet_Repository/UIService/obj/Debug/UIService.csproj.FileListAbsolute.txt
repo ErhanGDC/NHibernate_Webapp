@@ -1,0 +1,5 @@
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\UIService\bin\Debug\UIService.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\UIService\bin\Debug\UIService.pdb
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\UIService\obj\Debug\UIService.csproj.CoreCompileInputs.cache
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\UIService\obj\Debug\UIService.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\UIService\obj\Debug\UIService.pdb

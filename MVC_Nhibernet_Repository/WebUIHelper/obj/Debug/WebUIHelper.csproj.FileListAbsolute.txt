@@ -1,0 +1,6 @@
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\WebUIHelper\bin\Debug\WebUIHelper.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\WebUIHelper\bin\Debug\WebUIHelper.pdb
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\WebUIHelper\obj\Debug\WebUIHelper.csprojResolveAssemblyReference.cache
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\WebUIHelper\obj\Debug\WebUIHelper.csproj.CoreCompileInputs.cache
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\WebUIHelper\obj\Debug\WebUIHelper.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\WebUIHelper\obj\Debug\WebUIHelper.pdb

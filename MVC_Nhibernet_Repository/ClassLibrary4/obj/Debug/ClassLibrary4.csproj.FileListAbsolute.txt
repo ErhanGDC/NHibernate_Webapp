@@ -1,0 +1,5 @@
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary4\obj\Debug\ClassLibrary4.pdb

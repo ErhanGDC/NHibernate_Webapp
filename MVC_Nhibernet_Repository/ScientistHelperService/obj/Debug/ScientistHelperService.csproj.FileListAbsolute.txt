@@ -1,0 +1,5 @@
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ScientistHelperService\bin\Debug\ScientistHelperService.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ScientistHelperService\bin\Debug\ScientistHelperService.pdb
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ScientistHelperService\obj\Debug\ScientistHelperService.csproj.CoreCompileInputs.cache
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ScientistHelperService\obj\Debug\ScientistHelperService.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ScientistHelperService\obj\Debug\ScientistHelperService.pdb

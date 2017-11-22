@@ -1,0 +1,9 @@
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.deps.json
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.pdb
