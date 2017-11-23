@@ -6,7 +6,6 @@
         $scope.scientistList = [];
         $scope.inventionList = [];
 
-
         $scope.init = function () {
             getScientistList();
             getInventionList();
@@ -107,7 +106,7 @@
                 .then(function (response) {
                     console.log(response);
                     angular.forEach(response.data, function (value, index) {
-                        $scope.ScientistList.push({ "ID": value.ID, "FirstName": value.FirstName });
+                        $scope.ScientistList.push({ "ID": value.ID, "FirstName": value.FirstName, "LastName": value.LastName, "Title": value.Title });
                     });
                 });
         };

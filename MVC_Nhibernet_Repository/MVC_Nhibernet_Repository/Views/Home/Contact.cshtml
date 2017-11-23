@@ -16,6 +16,7 @@
         .container {
             margin: 20px 0;
         }
+
         body {
             padding: 40px;
             background: gainsboro;
@@ -50,7 +51,7 @@
                                             </td>
                                             <td>
                                                 <label for="ScientistName" ng-show="!inventionDetail.selected">{{inventionDetail.ScientistID.FirstName +" "+ inventionDetail.ScientistID.LastName}} </label>
-                                                   <select  ng-selected="1" ng-show="inventionDetail.selected" name="ScientistID" ng-change="GetScientistList()" ng-model="inventionDetail.ScientistID" ng-options="item as item.FirstName + item.LastName for item in ScientistList">
+                                                <select ng-selected="1" ng-show="inventionDetail.selected" name="ScientistID" ng-change="GetScientistList()" ng-model="inventionDetail.ScientistID" ng-options="item as item.FirstName +' '+ item.LastName for item in ScientistList">
                                                     <option value="">---Select Scientist---</option>
                                                 </select><br>
                                             </td>
@@ -61,7 +62,7 @@
                                                 <img id="updateButton" src="~/Content/icons/button_refresh.png" style="cursor: pointer;" ng-click="update()" ng-hide="!inventionDetail.selected" />
                                             </td>
                                             <td>
-                                                <img id="removeButton" src="~/Content/icons/button_cancel.png"  style="cursor: pointer;" ng-click="remove()" ng-hide="!inventionDetail.selected" />
+                                                <img id="removeButton" src="~/Content/icons/button_cancel.png" style="cursor: pointer;" ng-click="remove()" ng-hide="!inventionDetail.selected" />
                                             </td>
                                         </tr>
                                     </tbody>
@@ -69,7 +70,7 @@
                                 <br />
                                 <div class="form-group">
                                     <label for="ScientistID"> Scientists :</label>
-                                    <select required name="ScientistID" ng-change="GetScientistList()" ng-model="Invention.ScientistID" ng-options="item as item.FirstName for item in ScientistList">
+                                    <select required name="ScientistID" ng-change="GetScientistList()" ng-model="Invention.ScientistID" ng-options="item as item.FirstName +' '+ item.LastName for item in ScientistList">
                                         <option value="">---Select Scientist---</option>
                                     </select><br>
                                 </div><br />

@@ -78,12 +78,13 @@ namespace MVC_Nhibernet_Repository.Controllers
                         var scientistForDelete = session.Get<Scientists>(request.Id);
 
                         var invention = session.QueryOver<Inventions>()
-                               .Where(x => x.ScientistID.ID == scientistForDelete.ID).List<Inventions>();
+                               .Where(x => x.ScientistID.ID == scientistForDelete.ID).List().FirstOrDefault();
 
                         if (invention != null)
                         {
                             response.Result = false;
-                            response.ResultMessage = scientistForDelete.FirstName + " has an invention, Please delete " + invention.FirstOrDefault().Description + " invention firstly."; // TODO : Make dynamic and localized 
+                            response.ResultMessage =
+                            scientistForDelete.FirstName + " has an invention, Please delete " + invention.Description + " invention firstly."; // TODO : Make dynamic and localized 
                         }
                         else
                         {

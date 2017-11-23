@@ -1,0 +1,15 @@
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\obj\Debug\RepositoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\RepositoryPattern.exe.config
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\RepositoryPattern.exe
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\RepositoryPattern.pdb
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\Castle.Core.dll
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\Castle.Windsor.dll
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\EntityFramework.dll
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\Castle.Core.xml
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\Castle.Windsor.xml
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\EntityFramework.xml
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\obj\Debug\RepositoryPattern.exe
+C:\Users\Omni\source\repos\MyExamples\Git\MVC_Nhibernet_Repository\RepositoryPattern\obj\Debug\RepositoryPattern.pdb
