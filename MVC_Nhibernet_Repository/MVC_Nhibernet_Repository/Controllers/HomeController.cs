@@ -1,11 +1,7 @@
 ﻿using MVC_Nhibernet_Repository.DAL;
-using NHibernate;
-using NHibernate.Criterion;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Mvc;
 using MVC_Nhibernet_Repository.Models;
-using System;
+using System.Collections.Generic;
+using System.Web.Mvc;
 using UIService;
 using UIService.Invention;
 

@@ -156,7 +156,7 @@ namespace RepositoryPattern
 
                 //workerScientist.ScientistRepository.Delete(4); // Delete
 
-                ScientistEntity scientistForUpdate = workerScientist.ScientistRepository.FindById(2); //Chose the entity to Delete
+                ScientistEntity scientistForUpdate = workerScientist.ScientistRepository.FindById(2); //Choose the entity to Delete
                 scientistForUpdate.Title = "Space, Apple, Sky";
 
                 workerScientist.ScientistRepository.Update(scientistForUpdate); // Update

@@ -1,5 +1,0 @@
-C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\MyService\bin\Debug\UIHelperService.dll
-C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\MyService\bin\Debug\UIHelperService.pdb
-C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\MyService\obj\Debug\UIHelperService.csproj.CoreCompileInputs.cache
-C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\MyService\obj\Debug\UIHelperService.dll
-C:\Users\Omni\source\repos\MyExamples\MVC_Nhibernet_Repository\MyService\obj\Debug\UIHelperService.pdb

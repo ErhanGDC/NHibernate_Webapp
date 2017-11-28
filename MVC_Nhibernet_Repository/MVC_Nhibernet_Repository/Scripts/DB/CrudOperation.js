@@ -80,6 +80,8 @@
         }; // Update Scientist
 
         $scope.checkAll = function () {
+            debugger;
+            $scope.selectedAll = false;
             if (!$scope.selectedAll) {
                 $scope.selectedAll = true;
             } else {
@@ -176,9 +178,15 @@
             } else {
                 $scope.selectedAll = false;
             }
+            var keepGoing = true;
+
             angular.forEach($scope.InventionList, function (inventionDetail) {
-                inventionDetail.selected = $scope.selectedAll;
+                if (keepGoing) {
+                    inventionDetail.selected = $scope.selectedAll;
+                    keepGoing = false;
+                }
             });
+            //$('#selectedItem').prop('checked', false);
         };
 
     });
